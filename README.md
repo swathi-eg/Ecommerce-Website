@@ -1,2 +1,2 @@
-# Ecommerce-Website
-Ecommerce Website
+# ecommerce-website
+JS project
